@@ -1,0 +1,12 @@
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\bin\Debug\AutoCoding.exe.config
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\bin\Debug\AutoCoding.exe
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\bin\Debug\AutoCoding.pdb
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\bin\Debug\lua51.dll
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\bin\Debug\LuaInterface.dll
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\AutoCoding.CheckListBoxUI.resources
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\AutoCoding.MainForm.resources
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\AutoCoding.exe
+D:\SVN\质量部代码\项目部提交区\A1集中交易系统\A1-3文档区\002-培训文档\00202-集中交易结算培训\新经纪业务平台结算框架资料\辅助编码工具\AutoCoding\obj\x86\Debug\AutoCoding.pdb

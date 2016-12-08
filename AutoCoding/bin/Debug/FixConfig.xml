@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<FixConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectName />
+  <ProjectPath />
+  <TbStructFilePath>C:\T\struct.h</TbStructFilePath>
+  <BuStructFilePath />
+  <CreateTableFilePath>C:\E\VSS\jzjy\4受控区\41产品\集中交易主线\00集中交易数据处理平台\数据库生成\源代码\crt_table.sql</CreateTableFilePath>
+  <BSqlFilePrefix />
+  <BProcessFilePrefix />
+  <BSqlIncFiles />
+  <BProcessIncFiles />
+  <BSqlHIncFiles />
+  <BProcessHIncFiles />
+  <DefStructSuffix />
+  <DefTbSchema />
+  <Version />
+  <Package />
+  <Author />
+  <ModuleNameConst />
+  <ModuleNameValue />
+</FixConfig>
